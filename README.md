@@ -1,2 +1,2 @@
 # DataScienceProjects
-## This repository contains several notebooks that showcase my skills in data science.
+### This repository contains several notebooks that showcase my skills in data science.
